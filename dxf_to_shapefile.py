@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script para converter arquivos DXF para Shapefile
+Script para converter arquivos DXF para Shapefile (pacote)
 Processa polígonos de imóveis com sistema de coordenadas UTM e datum SIRGAS2000
 """
 
